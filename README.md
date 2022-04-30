@@ -8,4 +8,3 @@ Welcome to my github, I'm Sambhav Rakhe (@srakhe). A software developer from Ind
 
 ### Interesting Stuff: 🚀
 <img src="https://github-readme-stats.vercel.app/api?username=srakhe&hide=stars,contribs&count_private=true&show_icons=true&theme=great-gatsby"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srakhe&count_private=true&show_icons=true&theme=great-gatsby&hide=html&layout=compact"/>
